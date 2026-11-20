@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @JoCoded
-- 👀 I’m interested in ... being great
-- 🌱 I’m currently learning ... python
-- 💞️ I’m looking to collaborate on ... every language 
-- 📫 How to reach me ... via WhatsApp 07059147549
+# Hi, I'm Joshua 👋
 
-<!---
-JoCoded/JoCoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Mechatronics Engineer | Python Developer | Robotics, Automation & Applied AI**
+
+I build practical software that connects engineering problems with useful digital tools. My interests span autonomous systems, computer vision, industrial instrumentation, intelligent workflows, and electric vehicle technology.
+
+### 🔧 What I'm working on
+
+- **[Creative Agent / AI-Agent-2.0](https://github.com/JoCoded/Ai-Agent-2.0):** developing a modular creative-workflow assistant, starting with a tested Python foundation for structured briefs and production plans.
+- **Robotics and autonomous navigation:** applying computer vision, mapping, sensors, and control systems to real-world navigation challenges.
+- **Engineering software:** exploring reliable monitoring, automation, and data-analysis tools.
+
+### 🧰 Tools & technologies
+
+**Languages:** Python · C/C++ · MATLAB  
+**Engineering:** OpenCV · Raspberry Pi · Simulink · Sensors and embedded systems  
+**Development interests:** APIs · Automated testing · AI agents · Retrieval-augmented generation
+
+### 📌 How I work
+
+I focus on working prototypes, clear documentation, meaningful tests, and steady improvement—not just commit counts.
+
+**Explore my projects:** [github.com/JoCoded](https://github.com/JoCoded)
+
+> Always learning. Always building.
